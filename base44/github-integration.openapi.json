@@ -1,0 +1,67 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "AFN Rebuild Data (GitHub)",
+    "version": "1.0.0",
+    "description": "Read access to the GitHub repo holding the Autoflower Network rebuild dataset. Use this to fetch data files that the external assistant pushes (redirect maps, cleaned thread batches, content extracts). IMPORTANT: the large list files (threads.txt, posts.txt, attachments.txt, forum-index-pages.txt, tags.txt, members.txt, legacy-vbulletin.txt) are 61k-79k lines each - never fetch them whole; only use directory listings and commits to discover new files, then read specific data files the external assistant has pushed."
+  },
+  "servers": [
+    { "url": "https://api.github.com" }
+  ],
+  "paths": {
+    "/repos/NorthernGrower/afn-rebuild-data/contents/{path}": {
+      "get": {
+        "operationId": "get_repo_path",
+        "summary": "List a folder in the repo (returns file names, sizes, and download URLs), or read a single file (returns base64 content in the 'content' field).",
+        "description": "For a folder, pass the folder path (e.g. 'data'). For a file, pass its full path (e.g. 'data/redirect-map.csv'). Decode base64 'content' for file reads. Prefer 'download_url' for plain text files.",
+        "parameters": [
+          {
+            "name": "path",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "ref",
+            "in": "query",
+            "required": false,
+            "schema": { "type": "string", "default": "main" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Folder listing (array) or file object with base64 content"
+          }
+        }
+      }
+    },
+    "/repos/NorthernGrower/afn-rebuild-data/commits": {
+      "get": {
+        "operationId": "list_recent_commits",
+        "summary": "List recent commits so you can discover newly pushed data files without fetching large lists.",
+        "parameters": [
+          {
+            "name": "per_page",
+            "in": "query",
+            "required": false,
+            "schema": { "type": "integer", "default": 5 }
+          },
+          {
+            "name": "path",
+            "in": "query",
+            "required": false,
+            "description": "Only commits touching this path, e.g. 'data'",
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": { "description": "Array of commits (message lists what was added)" }
+        }
+      }
+    }
+  },
+  "x-raw-text-server": {
+    "url": "https://raw.githubusercontent.com/NorthernGrower/afn-rebuild-data/main/",
+    "note": "For plain-text reads, GET https://raw.githubusercontent.com/NorthernGrower/afn-rebuild-data/main/<path> returns the raw file (no base64). Prefer this for reading data files."
+  }
+}
