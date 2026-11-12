@@ -1,0 +1,137 @@
+{
+  "site": "The Autoflower Network",
+  "source": "Wayback Machine capture 2021-11-30 of https://www.autoflower.net/forums/",
+  "stats": {
+    "threads": 63639,
+    "messages": 2232623,
+    "members": 43141,
+    "gallery_categories": 41,
+    "albums": 860,
+    "uploaded_media": 20169
+  },
+  "note": "forum id 0 means the archived URL used a slug-only route (no numeric id in the URL); the slug is still the redirect key",
+  "categories": [
+    {"id": 36, "name": "Live Announcements, Intros, and Chat", "description": "Welcome to AFN! New to the site? Come say hello in our Introduction forum, stay up to date on the site in Live Announcements, and have a blast with the stoners in Live Stoners Chat!", "forums": [
+      {"id": 0, "slug": "live-announcements", "name": "Live Site & Vendor Announcements", "threads": 102, "messages": 3400, "subforums": [{"id": 701, "slug": "announcement-archives", "name": "Announcement Archives"}]},
+      {"id": 265, "slug": "live-vendor-show-growing", "name": "Live Vendor Show Growing", "threads": 217, "messages": 65400},
+      {"id": 0, "slug": "live-intros-and-chat", "name": "Live Introductions & Stoner Chat", "threads": 7900, "messages": 436200, "subforums": [{"id": 359, "slug": "auto-warriors-live-interviews-archive", "name": "Auto Warriors - Live Interviews Archive"}, {"id": 112, "slug": "nelsons-balcony", "name": "Nelson's Balcony"}]},
+      {"id": 238, "slug": "live-photography", "name": "Live Photography", "threads": 1200, "messages": 15500},
+      {"id": 0, "slug": "afn-planning", "name": "Live Site Feedback & Polling", "threads": 26, "messages": 597}
+    ]},
+    {"id": 722, "name": "AFN Knowledge Base", "forums": [
+      {"id": 0, "slug": "new-growers-forum", "name": "New Growers Forum: Question & Answer", "threads": 3600, "messages": 36400},
+      {"id": 90, "slug": "autoflower-infirmary-for-sick-plants", "name": "Autoflower Infirmary for Sick Plants", "threads": 5600, "messages": 63300, "subforums": [{"id": 438, "slug": "infirmary-file-cabinet-for-archive", "name": "Infirmary File Cabinet for Archive"}, {"id": 236, "slug": "tips-tricks-and-knowledge-base", "name": "Tips Tricks and knowledge base"}, {"id": 237, "slug": "reference", "name": "Reference"}]},
+      {"id": 249, "slug": "autoflower-myth-busters", "name": "Autoflower Myth Busters", "threads": 147, "messages": 5000},
+      {"id": 0, "slug": "guides-tutorials", "name": "Autoflower Guides & Tutorials: How to Grow", "threads": 199, "messages": 6200},
+      {"id": 28, "slug": "diy-projects-and-home-solutions", "name": "DIY Projects and Home Solutions", "threads": 429, "messages": 5800}
+    ]},
+    {"id": 522, "name": "Grow Journals", "description": "Document and track your grow progress from seed to harvest!", "forums": [
+      {"id": 710, "slug": "guide-to-blogging-on-afn", "name": "Guide to Blogging on AFN", "type": "link-forum"},
+      {"id": 44, "slug": "new-growers-grow-journals", "name": "New Growers Grow Journals", "threads": 11900, "messages": 281400},
+      {"id": 253, "slug": "indoor-grow-journals", "name": "Indoor Grow Journals", "threads": 8200, "messages": 303400},
+      {"id": 251, "slug": "outdoor-grow-journals", "name": "Outdoor Grow Journals", "threads": 1400, "messages": 46200},
+      {"id": 231, "slug": "photosensitive-grow-journals", "name": "Photosensitive Grow Journals", "threads": 494, "messages": 16400}
+    ]},
+    {"id": 362, "name": "Autoflower Genetics & Reviews", "description": "Discussion on autoflower genetics, breeding, and reviews!", "forums": [
+      {"id": 0, "slug": "autoflower-breeder-testing", "name": "Autoflower Genetics General Discussion", "threads": 1100, "messages": 22000},
+      {"id": 235, "slug": "autoflowering-breeding-and-feminization", "name": "Autoflowering Breeding and Feminization", "threads": 204, "messages": 4900},
+      {"id": 12, "slug": "autoflower-cultivar-reviews", "name": "Autoflower Cultivar Reviews", "threads": 779, "messages": 7500},
+      {"id": 232, "slug": "photoperiod-cultivar-reviews", "name": "Photoperiod Cultivar Reviews", "threads": 30, "messages": 529},
+      {"id": 0, "slug": "twenty20-mendocino", "name": "twenty20 Mendocino", "threads": 8, "messages": 889},
+      {"id": 263, "slug": "autobeanstalk", "name": "Autobeanstalk", "threads": 29, "messages": 1800},
+      {"id": 683, "slug": "auto-seeds", "name": "Auto Seeds", "threads": 97, "messages": 4100},
+      {"id": 682, "slug": "bearhill-seeds", "name": "Bearhill Seeds", "threads": 14, "messages": 521},
+      {"id": 684, "slug": "bomb-seeds", "name": "Bomb Seeds", "threads": 65, "messages": 2600},
+      {"id": 686, "slug": "dinafem", "name": "Dinafem", "threads": 540, "messages": 29800, "subforums": [{"id": 315, "slug": "autodinafem-strain-guide", "name": "AutoDinafem Strain Guide"}, {"id": 345, "slug": "dinafem-seeds-smoke-reports-and-reviews", "name": "Dinafem Seeds Smoke Reports and Reviews"}, {"id": 626, "slug": "dinafem-solo-cup-competition", "name": "Dinafem Solo Cup Competition"}, {"id": 0, "slug": "afn-dinafem-photoperiod", "name": "Dinafem Photoperiod Genetics"}]},
+      {"id": 676, "slug": "dragon-meds-team", "name": "Dragon Meds Team", "threads": 186, "messages": 16600, "subforums": [{"id": 188, "slug": "dragon-and-stones-medical-smoke-reports", "name": "Dragon and Stones Medical Smoke Reports"}]},
+      {"id": 687, "slug": "dutch-passion-seed-company", "name": "Dutch Passion Seed Company", "threads": 1000, "messages": 54100, "subforums": [{"id": 122, "slug": "dutch-passion-reviews-and-smoke-reports", "name": "Dutch Passion Reviews and Smoke Reports"}]},
+      {"id": 0, "slug": "afn-fast-buds", "name": "Fast Buds", "threads": 410, "messages": 18400, "subforums": [{"id": 262, "slug": "fast-buds-smoke-reports-and-reviews", "name": "Fast Buds Smoke Reports and Reviews"}, {"id": 289, "slug": "fastbuds-mega-grow-competitions", "name": "FastBuds Mega grow competitions"}, {"id": 335, "slug": "1st-afn-fast-buds-film-contest", "name": "1st AFN Fast Buds Film Contest"}, {"id": 478, "slug": "1st-fast-ladies-best-auto-challenge", "name": "1st FAST LADIES BEST AUTO CHALLENGE"}]},
+      {"id": 0, "slug": "gnome-automatics", "name": "Gnome Automatics", "threads": 38, "messages": 3400, "subforums": [{"id": 0, "slug": "gnome-automatics-reviews", "name": "Gnome Automatics Genetic Reviews"}]},
+      {"id": 689, "slug": "humboldt-seed-organization", "name": "Humboldt Seed Organization", "threads": 173, "messages": 5000, "subforums": [{"id": 0, "slug": "humboldt-seed-organization-autoflowers", "name": "Humboldt Seed Organization Autoflowering Strains"}, {"id": 0, "slug": "humboldt-seed-organization-grow-diaries", "name": "HSO Photoperiod Grow Diary Threads"}, {"id": 0, "slug": "humboldt-seed-organization-photoperiod", "name": "Humboldt Seed Organization Photoperiod Strains"}, {"id": 0, "slug": "humboldt-seed-organization-smoke-reports", "name": "Humboldt Seed Organization Smoke Reports"}, {"id": 628, "slug": "humbold-seed-organisation-grow-off-results", "name": "Humbold Seed Organisation Grow Off Results"}]},
+      {"id": 0, "slug": "jean-os-genetics", "name": "Jean-O's Genetics", "threads": 5, "messages": 440},
+      {"id": 0, "slug": "la-buena-hierba", "name": "La Buena Hierba", "threads": 36, "messages": 1900},
+      {"id": 690, "slug": "mega-buds", "name": "Mega Buds", "threads": 10, "messages": 268},
+      {"id": 691, "slug": "mephisto-genetics", "name": "Mephisto Genetics", "threads": 2200, "messages": 132700, "subforums": [{"id": 737, "slug": "mephisto-genetics-customer-service-request", "name": "Mephisto Genetics Customer Service Request", "type": "link-forum"}, {"id": 179, "slug": "mephisto-genetics-reviews-and-smoke-reports", "name": "Mephisto Genetics Reviews and Smoke Reports"}]},
+      {"id": 677, "slug": "night-owl-seeds", "name": "Night Owl Seeds", "threads": 48, "messages": 888, "subforums": [{"id": 639, "slug": "night-owl-seeds-tests-and-reviews", "name": "Night Owl Seeds Tests and Reviews"}]},
+      {"id": 0, "slug": "rocbudinc", "name": "RocBudInc Genetics", "threads": 36, "messages": 8500},
+      {"id": 0, "slug": "sacra-via-afn", "name": "Sacra Via", "threads": 9, "messages": 1000},
+      {"id": 693, "slug": "seed-stockers", "name": "Seed Stockers", "threads": 217, "messages": 16900, "subforums": [{"id": 0, "slug": "seedstockers-solo-cup-2021", "name": "Seedstockers Solo Cup Challenge 2021"}]},
+      {"id": 696, "slug": "super-sativa-seed-club", "name": "Super Sativa Seed Club", "threads": 71, "messages": 3300, "subforums": [{"id": 0, "slug": "sssc-grow-and-show-events", "name": "SSSC - Grow and Show Events"}, {"id": 0, "slug": "sssc-solocup-events-at-afn", "name": "SSSC - Solocup Events at AFN"}, {"id": 0, "slug": "sssc-autoflower-strains", "name": "SSSC - Autoflower Strains"}, {"id": 0, "slug": "sssc-feminized-photoperiod-strains", "name": "SSSC - Feminized Photoepriod Strains"}, {"id": 0, "slug": "ssss-regular-photoperiod-strains", "name": "SSSC - Regular Potoperiod Strains"}]},
+      {"id": 695, "slug": "sweet-seeds", "name": "Sweet Seeds", "threads": 828, "messages": 28600, "subforums": [{"id": 351, "slug": "test-grows", "name": "Test Grows"}, {"id": 195, "slug": "auto-flowering", "name": "Auto Flowering"}, {"id": 143, "slug": "smoke-reports-and-reviews", "name": "Smoke Reports and Reviews"}, {"id": 153, "slug": "photoperiod-dependent", "name": "Photoperiod Dependent"}, {"id": 145, "slug": "articles-and-events", "name": "Articles and Events"}, {"id": 196, "slug": "f1-fast-version", "name": "F1 Fast Version"}]},
+      {"id": 679, "slug": "synergy-automatic-genetics", "name": "Synergy Automatic Genetics", "threads": 32, "messages": 635}
+    ]},
+    {"id": 747, "name": "Seed Banks", "forums": [
+      {"id": 27, "slug": "seed-bank-reviews", "name": "Seed Bank Reviews", "threads": 425, "messages": 6700},
+      {"id": 692, "slug": "oregon-elite-seeds", "name": "Oregon Elite Seeds", "threads": 13, "messages": 375},
+      {"id": 697, "slug": "the-vault-cannabis-seed-store", "name": "The Vault Cannabis Seed Store", "threads": 150, "messages": 3200}
+    ]},
+    {"id": 729, "name": "Grow Mediums & Containers", "forums": [
+      {"id": 0, "slug": "grow-medium-reviews", "name": "Grow Medium Reviews", "threads": 14, "messages": 126},
+      {"id": 244, "slug": "discussion-growing-with-coco-coir", "name": "Discussion: Growing with Coco-Coir", "threads": 406, "messages": 15500},
+      {"id": 0, "slug": "grow-medium", "name": "Grow Mediums & Container Discussion & Vendors", "threads": 201, "messages": 2600},
+      {"id": 647, "slug": "autopots-watering-systems", "name": "Autopots Watering Systems", "threads": 407, "messages": 15400}
+    ]},
+    {"id": 728, "name": "Lighting", "forums": [
+      {"id": 0, "slug": "grow-lights", "name": "Grow Light Discussion", "threads": 1800, "messages": 37200},
+      {"id": 226, "slug": "grow-light-reviews", "name": "Grow Light Reviews", "threads": 115, "messages": 1000},
+      {"id": 343, "slug": "diy-led-building", "name": "DIY LED Building", "threads": 369, "messages": 9400},
+      {"id": 0, "slug": "grow-light-vendors", "name": "AFN Grow Light Vendors", "threads": 309, "messages": 11900},
+      {"id": 664, "slug": "cobshop-net", "name": "Cobshop.net", "threads": 167, "messages": 13000},
+      {"id": 666, "slug": "grownorthern-led", "name": "GrowNorthern LED", "threads": 335, "messages": 24700, "subforums": [{"id": 192, "slug": "grow-northern-live-tech-talk", "name": "Grow Northern Live Tech Talk"}]},
+      {"id": 670, "slug": "led-hydroponic-ltd", "name": "LED Hydroponic LTD", "threads": 45, "messages": 3500},
+      {"id": 0, "slug": "horticulture-lighting-group", "name": "Horticulture Lighting Group", "threads": 17, "messages": 1500},
+      {"id": 636, "slug": "mars-hydro", "name": "Mars Hydro", "threads": 252, "messages": 17300},
+      {"id": 671, "slug": "platinum-led-grow-lights", "name": "Platinum LED Grow Lights", "threads": 49, "messages": 2300},
+      {"id": 672, "slug": "sanlight", "name": "SANlight", "threads": 10, "messages": 3100}
+    ]},
+    {"id": 727, "name": "Grow Rooms & Environment", "forums": [
+      {"id": 0, "slug": "grow-space-management", "name": "Grow Room Setup Discussion", "threads": 242, "messages": 2500},
+      {"id": 457, "slug": "grow-room-equipment-reviews", "name": "Grow Room Equipment Reviews", "threads": 390, "messages": 3900}
+    ]},
+    {"id": 726, "name": "Nutrients & Additives", "forums": [
+      {"id": 0, "slug": "nutrient-additive-testing", "name": "Nutrient & Additive Discussion", "threads": 330, "messages": 3400},
+      {"id": 26, "slug": "nutrient-additive-reviews", "name": "Nutrient & Additive Reviews", "threads": 502, "messages": 6900},
+      {"id": 646, "slug": "biotabs", "name": "Biotabs", "threads": 118, "messages": 5500},
+      {"id": 645, "slug": "dutchpro", "name": "DutchPro", "threads": 13, "messages": 1100},
+      {"id": 642, "slug": "greenleaf-nutrients", "name": "Greenleaf Nutrients", "threads": 126, "messages": 6400},
+      {"id": 0, "slug": "prescription-blend", "name": "Prescription Blend", "threads": 14, "messages": 659},
+      {"id": 643, "slug": "optic-foliar", "name": "Optic Foliar", "threads": 19, "messages": 873},
+      {"id": 648, "slug": "phyter-aka-rotblock", "name": "Phyter (aka RotBlock)", "threads": 5, "messages": 348}
+    ]},
+    {"id": 725, "name": "Types of Growing", "forums": [
+      {"id": 0, "slug": "irrigation-and-water-performance-testing", "name": "Hydroponics", "threads": 1000, "messages": 27900},
+      {"id": 104, "slug": "micro-growing", "name": "Micro Growing", "threads": 343, "messages": 15700},
+      {"id": 246, "slug": "organic-growing", "name": "Organic Growing", "threads": 1100, "messages": 31000, "subforums": [{"id": 443, "slug": "discussion-living-organic-soils", "name": "Discussion: Living Organic Soils"}, {"id": 444, "slug": "discussion-organic-tea-recipes", "name": "Discussion: Organic Tea Recipes"}]},
+      {"id": 0, "slug": "outdoor-growing-discussion", "name": "Outdoor Growing", "threads": 277, "messages": 4100}
+    ]},
+    {"id": 720, "name": "Harvest, Curing, & Storage", "forums": [
+      {"id": 0, "slug": "harvest-cure-testing", "name": "Harvest and Curing Discussion", "threads": 981, "messages": 10500},
+      {"id": 456, "slug": "harvest-and-cure-product-reviews", "name": "Harvest and Cure Product Reviews", "threads": 4, "messages": 288},
+      {"id": 0, "slug": "grove-bags", "name": "Grove Bags", "threads": 8, "messages": 512}
+    ]},
+    {"id": 721, "name": "Extraction & Processing", "forums": [
+      {"id": 0, "slug": "diy-vape-cartridges", "name": "Discussion: DIY Vape Cartridges", "threads": 19, "messages": 457},
+      {"id": 248, "slug": "discussion-hash-oil-and-edibles", "name": "Discussion: Hash Oil and Edibles", "threads": 521, "messages": 9800},
+      {"id": 0, "slug": "extraction-and-processing-reviews", "name": "Extraction & Processing Product Reviews", "threads": 9, "messages": 98},
+      {"id": 0, "slug": "extraction-processing-testing", "name": "Extraction and Processing General Discussion", "threads": 146, "messages": 2800},
+      {"id": 657, "slug": "bubble-bowls", "name": "Bubble Bowls", "threads": 10, "messages": 200}
+    ]},
+    {"id": 79, "name": "Recreational & Medical Cannabis Use", "description": "Sub-forums for the advocacy and information on recreational and medical use of cannabis.", "forums": [
+      {"id": 0, "slug": "medical-cannabis-discussion", "name": "Medical Cannabis Discussion", "threads": 342, "messages": 6500, "subforums": [{"id": 166, "slug": "let-food-be-thy-medicine-and-medicine-be-thy-food", "name": "Let food be thy medicine and medicine be thy food"}, {"id": 67, "slug": "medicinal-cannabis-recipes-articles", "name": "Medicinal Cannabis Recipes / Articles"}, {"id": 86, "slug": "are-you-taking-the-piss-ph-positive-health-sec", "name": "Are you taking the piss...? PH Positive Health sec"}, {"id": 80, "slug": "the-apothecarys-chest", "name": "The Apothecarys Chest"}]},
+      {"id": 420, "slug": "the-mush-room", "name": "The Mush Room", "threads": 57, "messages": 3000},
+      {"id": 0, "slug": "smoking-accessory-and-vape-testing", "name": "Smoking Accessories and Vaporizers", "threads": 304, "messages": 4500, "subforums": [{"id": 162, "slug": "smoking-accessory-and-vaporizer-reviews", "name": "Smoking Accessory and Vaporizer Reviews"}]}
+    ]},
+    {"id": 724, "name": "A World of Cannabis", "description": "Discussion for local, state, regional, and country-wide cannabis politics, laws, and activism.", "forums": [
+      {"id": 185, "slug": "the-united-states", "name": "The United States", "threads": 119, "messages": 2200, "subforums": [{"id": 487, "slug": "colorado", "name": "Colorado"}, {"id": 493, "slug": "washington-state", "name": "Washington State"}, {"id": 0, "slug": "cannagrow-expo", "name": "CannaGrow Expo"}, {"id": 0, "slug": "cagautoflowercup", "name": "Autoflower Cup 2019"}]},
+      {"id": 0, "slug": "cannabis-in-canada", "name": "Canada", "threads": 25, "messages": 546},
+      {"id": 0, "slug": "cannabis-in-europe", "name": "Europe", "threads": 12, "messages": 141},
+      {"id": 0, "slug": "cannabis-in-mexico", "name": "Mexico", "threads": 1, "messages": 28}
+    ]}
+  ],
+  "extras": {
+    "blog": "UBS blog entries at /forums/ubs/<slug>.<id>/ (user grow blogs)",
+    "reviews": "Resource Manager items at /forums/rms/<slug>.<id>/ (product/strain reviews)",
+    "gallery": "Media gallery at /forums/media/<name>.<id>/ and albums",
+    "top_reputation_members": ["Mossy (3)", "Mañ'O'Green (35589)", "St. Tom (35806)", "420Forever (46205)", "wwwillie (21136)"]
+  }
+}
